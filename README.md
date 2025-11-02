@@ -27,7 +27,7 @@ A production-ready Telegram bot for automated travel content creation using AI a
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/pawansuthar01/travel-content-bot.git
 cd travel-content-bot
 ```
 
@@ -189,4 +189,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, please create an issue in the repository or contact the maintainers.
+
+For support, please create an issue in the repository or contact me directly:
+
+📧 **Email:** [mail@pawansuthar.in](mailto:mail@pawansuthar.in)  
+💼 **LinkedIn:** [linkedin.com/in/pawankumar10/](https://www.linkedin.com/m/in/pawankumar10/)
