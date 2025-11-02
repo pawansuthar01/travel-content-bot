@@ -189,7 +189,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, please create an issue in the repository or contact me directly:
-
 📧 **Email:** [mail@pawansuthar.in](mailto:mail@pawansuthar.in)  
 💼 **LinkedIn:** [linkedin.com/in/pawankumar10/](https://www.linkedin.com/m/in/pawankumar10/)
