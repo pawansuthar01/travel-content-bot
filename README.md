@@ -190,4 +190,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 📧 **Email:** [mail@pawansuthar.in](mailto:mail@pawansuthar.in)  
-💼 **LinkedIn:** [linkedin.com/in/pawankumar10/](https://www.linkedin.com/m/in/pawankumar10/)
+💼 **LinkedIn:** [linkedin.com/in/pawankumar10/](https://www.linkedin.com/m/in/pawansuthar01/)
